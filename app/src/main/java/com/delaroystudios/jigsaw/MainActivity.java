@@ -339,7 +339,9 @@ public class MainActivity extends Activity {
 		
 		
 		btnNext.setOnClickListener(new OnClickListener() {
-			
+
+
+
 			@Override
 			public void onClick(View v) {
 //				if (isClicked) {
