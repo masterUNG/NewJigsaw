@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_52198f697929b378c7042c744a253e11bc9fd65d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_00485ca472a7c7c41e12314e1f3445911ec4af44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_3dc9daf7bcc8b578fe1795f4b0281ff5009bfae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/libs/GoogleAdMobAdsSdk-6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e6b52dcd6402380542cb37557bd04e06e6d7e47d">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/pre-dexed/debug/GoogleAdMobAdsSdk-6.0.1_52912447827d355debef8073ba0cb2adc0fa2346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_cf551d88c95b8e28f9886cfbd57a1033aae871ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_916e9edb6296d492a9e5e89526338acdc3789bfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/libs/GoogleAdMobAdsSdk-6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e6b52dcd6402380542cb37557bd04e06e6d7e47d">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/pre-dexed/debug/GoogleAdMobAdsSdk-6.0.1_52912447827d355debef8073ba0cb2adc0fa2346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_1cd9182496d5222faef081eaa9ec566fc40ae607.jar" />
+    </item>
+
+</items>
